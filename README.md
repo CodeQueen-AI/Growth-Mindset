@@ -7,16 +7,16 @@ https://codequeen-growthmindset.streamlit.app/
 
 # 📌 Streamlit Installation 
 
-> # 1️⃣ Install Streamlit
+1️⃣ Install Streamlit
 
                                             pip install streamlit
 
 
-# 2️⃣ Verify Installation
+2️⃣ Verify Installation
 
-                                                              streamlit --version
+                                            streamlit --version
 
 
-# 3️⃣ Run Your Streamlit App
+3️⃣ Run Your Streamlit App
 
-                                                          streamlit run app.py
+                                            streamlit run app.py
