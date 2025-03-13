@@ -1,4 +1,3 @@
-✨ Improved Version
 # GrowthMindset – Unlock Your Coding Potential! 🚀
 > Do you ever wonder which coding field suits you best? 🤔💡
 With GrowthMindset discover your true passion in programming! This app helps you identify whether your interests align with Web Development, AI, Data Science, Game Development, or another exciting tech field
@@ -22,4 +21,6 @@ https://codequeen-growthmindset.streamlit.app/
 
                                             streamlit run app.py
 
-👩‍💻 Now explore your coding interest with GrowthMindset! 🚀
+✨Created with passion by Code Queen🚀
+
+
